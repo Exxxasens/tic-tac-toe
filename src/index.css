@@ -1,13 +1,71 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    height: 100%;
+    width: 100vw;
+    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#root {
+    display: flex;
+    min-height: 100vh;
+    /* Отобразим все приложение по центру */
+    justify-content: center;
+    align-items: center;
+}
+.field-wrapper {
+    /* отобразим наше игровое поле как таблицу */
+    display: table;
+    border-collapse: collapse;
+}
+.row {
+    /* отобразим как строку таблицы */
+    display: table-row;
+}
+.cell {
+    /* 
+        отобразим как ячейку таблицы
+        и добавим границы, размер ячейки.
+    */
+    display: table-cell;
+    border: 1px solid #3b3b3b;
+    height: 6rem;
+    width: 6rem;
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+    vertical-align: middle;
+    font-weight: 300;
+    font-size: 3rem;
+}
+
+.cell.empty {
+    cursor: pointer;
+}
+
+.game-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.restart-btn {
+    margin: 1rem 0;
+}
+
+button {
+    background-color: white;
+    border: 1px solid #808080;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 1px;
+    padding: 3px 8px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
 }
