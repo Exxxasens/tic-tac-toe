@@ -448,7 +448,7 @@ button:hover  {
 }
 ```
 В результате, наше приложение имеет следующий вид:
-
+![](https://vk.com/doc347516616_587531167?hash=f190096f04dfa0e3d6&dl=88f57e7ef772a8cefd&wnd=1&module=im)
 
 
 
