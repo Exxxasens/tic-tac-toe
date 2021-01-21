@@ -448,7 +448,7 @@ button:hover  {
 }
 ```
 В результате, наше приложение имеет следующий вид:
-![](https://psv4.userapi.com/c536236/u347516616/docs/d5/64ab6b9431ac/Zapis_ekrana_2021-01-21_v_09_50_44.gif)
+![](https://sun9-16.userapi.com/impf/s2lXvPoiFB47z9BsnTglZB0IOOD-0Srrac1cHA/gQbTEW19G-A.jpg?size=2560x1517&quality=96&proxy=1&sign=24b0810fd48cfa786b19347dd0da9c96&type=album)
 
 
 
