@@ -192,7 +192,7 @@ body {
 
 И видим наше игровое поле:
 
-![](https://sun9-50.userapi.com/impf/S8YMYggCESUkniuWH6MFraHS5qqQiY0C1e3mWA/bYT-envCQJM.jpg?size=608x614&quality=96&proxy=1&sign=39e7dead005ad855df332a56ca819a5c&type=album =250x)
+![](https://sun9-50.userapi.com/impf/S8YMYggCESUkniuWH6MFraHS5qqQiY0C1e3mWA/bYT-envCQJM.jpg?size=608x614&quality=96&proxy=1&sign=39e7dead005ad855df332a56ca819a5c&type=album)
 
 ### Состояние компонента App
 
@@ -448,7 +448,7 @@ button:hover  {
 }
 ```
 В результате, наше приложение имеет следующий вид:
-![](https://vk.com/doc347516616_587531167?hash=f190096f04dfa0e3d6&dl=88f57e7ef772a8cefd&wnd=1&module=im)
+![](https://psv4.userapi.com/c536236/u347516616/docs/d5/64ab6b9431ac/Zapis_ekrana_2021-01-21_v_09_50_44.gif)
 
 
 
